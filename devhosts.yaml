@@ -3,8 +3,7 @@ all:
   children:
     appserver:
       hosts:
-        172.31.6.58:
-        172.31.9.68:
+        3.87.229.103
           
         
 
